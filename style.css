@@ -1,0 +1,26 @@
+p{
+    color: blueviolet;
+    font-size: medium;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+#heading1_id{
+    color: red;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 
+}
+
+.image_style{
+    width: 50px;   /* Set the width of the image */
+    height: auto;
+    margin: 20px;
+}
+
+.div_styling{
+    margin: 20px; 
+    padding: 10px; 
+    align-items: center;
+    border: 2px solid #4CAF50; }
